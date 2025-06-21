@@ -29,3 +29,6 @@ The histogram provided a clear comparative view of immigration trends, revealing
 
 ## 📌 Notes
 Remember to perform basic data cleaning (e.g., handling missing values) before visualization to ensure accuracy and clarity.
+### 📊 Data Analysis & Visualization (Python)
+- Python 3.7 or later
+- Libraries: pandas, matplotlib, numpy
